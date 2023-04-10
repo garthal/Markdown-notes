@@ -110,6 +110,7 @@ Add Link
     - \# \## \### \#### \##### \######
     1. How many do you need to create the largest heading?
       - \#
+      
     2. How many do you need to create the smallest heading?
       - \######
 4. When making text bold or italicized for emphasis, it is best practice to use which symbol?
