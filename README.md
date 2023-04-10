@@ -99,3 +99,23 @@ Add Link
 \[Add Link]\(https://www.google.com/) 
 
 [Add Link](https://www.google.com/)
+
+# Questions
+
+1. What is Markdown?
+    - Markdown is a universial tool for text, that is widely recognized and simple.
+2. Why do we use Markdown?
+    - Because of its versitility and simple syntax.
+3. What symbol will create a heading in Markdown?
+    - \# \## \### \#### \##### \######
+    1. How many do you need to create the largest heading?
+      - \#
+    2. How many do you need to create the smallest heading?
+      - \######
+4. When making text bold or italicized for emphasis, it is best practice to use which symbol?
+  - Bold \*\*Bold**
+  - Italic \*Italic*
+5. How do you create a link with Markdown?
+  - \[Link]\(URL)
+6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+  - \- \+ \*
